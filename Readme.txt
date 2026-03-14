@@ -80,7 +80,7 @@ Bike-RAG-Chatbot
 Clone the repository
 
 ```
-git clone https://github.com/yourusername/bike-rag-chatbot.git
+git clone https://github.com/tusharrr12/bike-rag-chatbot.git
 cd bike-rag-chatbot
 ```
 
